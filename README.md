@@ -10,7 +10,7 @@
 **Latest Prototype Screenshots**
 
 <!-- <img src="https://github.com/rahulkarda/assets/blob/main/thinkbig/readme-md/thinkbig-screenshot-1.webp" title="Prototype Classes Page" width="250px">  -->
-<img src="https://github.com/100Devs-ADHD/assets/blob/main/thinkbig/readme-md/thinkbig-screenshot-2.webp" title="Prototype Classes Page" width="250px"> <img src="https://github.com/100Devs-ADHD/assets/blob/main/thinkbig/readme-md/thinkbig-screenshot-3.webp" title="Prototype Calendar" width="250px">
+<!-- <img src="https://github.com/rahulkarda/assets/blob/main/thinkbig/readme-md/thinkbig-screenshot-2.webp" title="Prototype Classes Page" width="250px"> <img src="https://github.com/rahulkarda/assets/blob/main/thinkbig/readme-md/thinkbig-screenshot-3.webp" title="Prototype Calendar" width="250px"> -->
 <br />
 <br />
 <a href="https://github.com/rahulkardaissues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
@@ -24,10 +24,10 @@
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/100Devs-ADHD/think-big.svg?style=flat-square)](LICENSE)
+[![Project license](https://img.shields.io/github/license/rahulkarda/?style=flat-square)](LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/rahulkarda/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by Rahul](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-100DevsADHD-ff1414.svg?style=flat-square)](https://github.com/rahulkarda)
+[![code with love by Rahul](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Rahul-ff1414.svg?style=flat-square)](https://github.com/rahulkarda)
 
 </div>
 
@@ -196,7 +196,7 @@ If you don't want to constantly get stuck in `vi` hell, follow [these instructio
 This repo is set up to not allow any commits to be pushed directly to the `main` or `develop` branches.
 
 Create a new branch using the format `YourUserName/very-short-description`.
-When you're ready to submit a pull request, you will want to merge it in to `develop`. Ideally, this pull request will correspond with one or more [Issues](https://github.com/100Devs-ADHD/think-big/issues).
+When you're ready to submit a pull request, you will want to merge it in to `develop`. Ideally, this pull request will correspond with one or more [Issues](https://github.com/rahulkarda/issues).
 
 We will submit pull requests from `develop` to `main` when we have enough meaningful changes committed.
 
