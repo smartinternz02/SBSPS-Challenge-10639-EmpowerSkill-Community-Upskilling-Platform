@@ -24,7 +24,7 @@
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/rahulkarda/?style=flat-square)](LICENSE)
+<!-- [![Project license](https://img.shields.io/github/license/rahulkarda/?style=flat-square)](LICENSE) -->
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/rahulkarda/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by Rahul](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Rahul-ff1414.svg?style=flat-square)](https://github.com/rahulkarda)
@@ -59,9 +59,11 @@
 
 ## About
 
-In today's educational landscape, the need for an effective Learning Management System (LMS) is paramount. With the growing demand for online education and e-learning, institutions and organizations require an efficient platform that can manage, organize, and deliver educational content to learners effectively .Students often have difficulty keeping track of dense information - especially in an academic setting. To solve these issues, we decided to address these issues.
+In today's educational landscape, the need for an effective upskilling platform is paramount. With the growing demand for online education and e-learning, institutions and organizations require an efficient platform that can manage, organize, and deliver skillful content to learners effectively.Learners often have difficulty keeping track of dense information - especially in an academic setting. To solve these issues, I decided to address these issues.
 
-Together, we designed a prototype that will allow us to track classes, assignments, and resources automatically. The app will also enable students to connect easily on Discord when help is needed.
+Learn Together is a web platform that facilitates the exchange of skills and knowledge among individuals within a community. It enables users to connect with others who have complementary skills and interests, fostering a collaborative learning environment.
+
+I designed a prototype that will allow users to track classes, assignments, and resources automatically. The app will also enable learners to connect easily on Discord when help is needed.
 
 <br/>
 
@@ -109,7 +111,7 @@ pnpm install
 
 ### **Environment Variables**
 
-- This will require that you setup a MongoDB database. We recommend using MongoDB Atlas because there's a free option.
+- This will require that you setup a MongoDB database. I recommend using MongoDB Atlas because there's a free option.
 - You will also need access to our Discord Developer Portal. For this, you can reach out @GarlandKey or @JoeKarow.
 - Do not try to run the server locally until you have completed the MongoDB and Discord setup.
 
@@ -171,7 +173,7 @@ If you want to say **thank you** or/and support active development of thinkBig:
 - Tweet about the LearnTogether.
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), [Medium](https://medium.com/) or your personal blog.
 
-Together, we can make thinkBig **better**!
+Together, I can make thinkBig **better**!
 
 <br/>
 
@@ -198,7 +200,7 @@ This repo is set up to not allow any commits to be pushed directly to the `main`
 Create a new branch using the format `YourUserName/very-short-description`.
 When you're ready to submit a pull request, you will want to merge it in to `develop`. Ideally, this pull request will correspond with one or more [Issues](https://github.com/rahulkarda/issues).
 
-We will submit pull requests from `develop` to `main` when we have enough meaningful changes committed.
+I will submit pull requests from `develop` to `main` when I have enough meaningful changes committed.
 
 <br/>
 
@@ -208,9 +210,3 @@ This project is licensed under the **GNU General Public License v3**.
 
 See [LICENSE](LICENSE) for more information.
 
-## Domains
-1. wittylearners.study
-2. learn2hack.us
-3. learnwithwitty.club
-4. wittyhackers.study
-5. hackwith.us
