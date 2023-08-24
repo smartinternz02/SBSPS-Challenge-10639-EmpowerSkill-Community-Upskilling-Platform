@@ -112,7 +112,7 @@ pnpm install
 ### **Environment Variables**
 
 - This will require that you setup a MongoDB database. I recommend using MongoDB Atlas because there's a free option.
-- You will also need access to our Discord Developer Portal. For this, you can reach out @GarlandKey or @JoeKarow.
+- You will also need access to our Discord Developer Portal. For this, you can reach out @rahulkarda.
 - Do not try to run the server locally until you have completed the MongoDB and Discord setup.
 
 Copy `.env.example` in the root directory and name it `.env`
